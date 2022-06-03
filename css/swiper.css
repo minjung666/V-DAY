@@ -156,6 +156,7 @@
 
 .swiper-button-prev img{opacity: 0;} 
 .swiper-button-next img{opacity: 0;}
+
 .swiper-container:hover .swiper-button-prev img{opacity: 1;}
 .swiper-container:hover .swiper-button-next img{opacity: 1;}
 

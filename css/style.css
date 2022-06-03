@@ -256,9 +256,9 @@ body{font-family: 'GowunBatang-Bold'; font-size: 20px; line-height: 40px;}
 .list1 li{float: left; height: 40px; margin-top: 39px;}
 .list1 li a{padding: 0px 18px; color: #583C31; font-size: 15px; border-right: 1px solid #583c319d;}
 .list1 li:first-child a{padding-left: 0px;}
-.list1 li:nth-child(2) a{color: #fd9166;}
+.list1 li:nth-child(2) a{color: #f16e3a;}
 .list1 li:last-child a{border-right: none;}
-.list1 li:hover a{color: #F0C599;}
+.list1 li:hover a{color: #583c3173;}
 
 .list2{float: right; height: 100px; width: 174px;}
 .list2 li{float: left; height: 40px; margin-top: 45px;}
@@ -266,6 +266,8 @@ body{font-family: 'GowunBatang-Bold'; font-size: 20px; line-height: 40px;}
 .list2 li:nth-child(1) a{margin-top: 4px; margin-right: 2px;}
 .list2 li:nth-child(2) a{margin-top: 1px;}
 .list2 li:nth-child(3) a{margin-left: 30px; width: 12px;}
+
+.list2 li:hover img{opacity: 0.5;}
 
 
 .list3{float: left;  margin-top: 25px; font-size: 14px; color: #583C31;}
